@@ -1,0 +1,18 @@
+First entry of the tech journal.
+
+I wanted to create this as an end to many means.
+
+    -First of all, I want to write english. Like, I do it all day along anyways, but more practice will not hurt.
+    -Second, as a way to at least start a journal, something that I tried many times and maybe if it's only code related I will commit a bit more.
+    -Third, to check my progress. Perhaps I can come back here a few months down the like and have a laugh about it.
+    -And last, to have an active git. Seems that this is important for the industry for reasons that I do not know yet.
+
+Without further ado, lets get going.
+
+Today I finished the codecademy javascript little course for the second time. I want more. Although js seems less powerful and way more verbose than python, its all the same and if the industry wants this ugly code language, it will have from me.
+
+I was bored so I created a magic 8 ball snippet in JS in an hour. It took me so long because I wanted it to be an object and I struggled with some stupid basic syntax. I implemented it in an HTML file. Now I have a very optimistic website xD
+
+I practiced A LOT with git. I wanted to create a new repository, but I did not understand (nor I paid attention to) that I needed to refer to the proper directories. I don't know what I smoke - and I don't smoke.
+
+Tomorrow I will have the test for the big course. I think that I am ready, we will see.
